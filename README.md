@@ -1,7 +1,7 @@
 # Traffic-Optimizer
 "Finding the Fastest Route"
 
-This project was completed as part of ICS 46 Spring 2022. The project aimed to create a program that finds the shortest distance or driving time between two locations on a street map, optimized not only for distance but also for the shortest driving time given the current traffic conditions.
+The project aimed to create a program that finds the shortest distance or driving time between two locations on a street map, optimized not only for distance but also for the shortest driving time given the current traffic conditions.
 
 Introduction
 Living in Southern California means facing the reality of having to deal with heavy traffic. Fortunately, with technology, we have easy access to information that can help. The program's main job is to discover the shortest distance or driving time between two locations. The map consists of any kind of road that a car can pass over, such as streets or freeways.
